@@ -2,6 +2,8 @@
 
 # 19CN406-EX-11 SIMULATION OF ETHERNET USING OPNET SIMULATOR Assignment
 
+# DATE : 18-05-2023
+
 # AIM:
 
 ### To Study of Network simulator (NS).and Simulation of Congestion Control Algorithms using NS.
